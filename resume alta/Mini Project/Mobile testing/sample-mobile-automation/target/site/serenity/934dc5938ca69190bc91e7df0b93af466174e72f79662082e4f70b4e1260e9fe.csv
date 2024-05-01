@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Home","I want add one product to trolley","SUCCESS","2022-11-07T11:28:19.6039605+07:00[Asia/Bangkok]","0.0","40.0"
+"Home","I want add two product to trolley","SUCCESS","2022-11-07T11:28:59.6310281+07:00[Asia/Bangkok]","0.0","26.24"
+"Login","Login with account","SUCCESS","2022-11-07T11:29:25.9279455+07:00[Asia/Bangkok]","0.0","123.18"
+"Logout","I want to logout my account","SUCCESS","2022-11-07T11:31:29.1308313+07:00[Asia/Bangkok]","0.0","30.96"
+"Register","Register account","SUCCESS","2022-11-07T11:32:00.1189409+07:00[Asia/Bangkok]","0.0","208.89"

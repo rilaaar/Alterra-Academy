@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: Product
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 16.53 s <<< FAILURE! - in Product
+Product.Create a new product #1  Time elapsed: 1.351 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Expected status code <200> but was <400>.
+
+
+Product.Create a new product #3  Time elapsed: 1.339 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Expected status code <200> but was <400>.
+
+

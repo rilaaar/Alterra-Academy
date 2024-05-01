@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: Order
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 15.787 s <<< FAILURE! - in Order
+Order.Create a order #1  Time elapsed: 6.066 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Expected status code <200> but was <401>.
+
+
+Order.Create a order #3  Time elapsed: 1.4 s  <<< ERROR!
+net.serenitybdd.core.exceptions.SerenityManagedException: 
+1 expectation failed.
+Expected status code <200> but was <401>.
+
+

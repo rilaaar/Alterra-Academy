@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=net.serenity-bdd -DarchetypeArtifactId=serenity-cucumber-archetype -DarchetypeVersion=2.3.2 -DgroupId=com.example -DartifactId=sample-mobile-automation -Dversion=1.0-SNAPSHOT

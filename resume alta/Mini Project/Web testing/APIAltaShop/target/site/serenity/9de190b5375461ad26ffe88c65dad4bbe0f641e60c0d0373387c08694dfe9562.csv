@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Index","Index with valid token","SUCCESS","2022-11-04T14:26:16.3943735+07:00[Asia/Bangkok]","0.0","5.13"
+"Index","Index with invalid token","SUCCESS","2022-11-04T14:26:21.537511+07:00[Asia/Bangkok]","0.0","1.46"

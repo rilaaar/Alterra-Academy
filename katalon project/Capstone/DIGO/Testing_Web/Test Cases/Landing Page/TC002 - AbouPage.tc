@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002 - AbouPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da084315-246b-4f70-abb9-d3a03d87c500</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f5e624d0-1e58-4bfa-8f32-0ccb3039ee11</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject(null)</defaultValue>
+      <description></description>
+      <id>f5e624d0-1e58-4bfa-8f32-0ccb3039ee11</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

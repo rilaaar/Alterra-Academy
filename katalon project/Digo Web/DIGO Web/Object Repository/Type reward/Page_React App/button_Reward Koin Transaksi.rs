@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reward Koin Transaksi</name>
+   <tag></tag>
+   <elementGuidId>5e3526e9-2cd8-4b51-b244-6b2f40fe96a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div[2]/div[2]/section/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button_kotak</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fd4d6540-ca1b-45ba-aa93-3ab4bcb281c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button_kotak</value>
+      <webElementGuid>171616f5-5db6-426c-931d-2806d5c1c7af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reward Koin Transaksi</value>
+      <webElementGuid>afdfeebd-d037-4bfd-8fea-22f9b3a7e747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;sidebardashboard&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;content&quot;]/section[@class=&quot;produkSection&quot;]/div[@class=&quot;very_top&quot;]/div[@class=&quot;button&quot;]/button[@class=&quot;button_kotak&quot;]</value>
+      <webElementGuid>f24f8897-0fb6-4a0a-bc05-8262703deb57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div[2]/div[2]/section/div/div[2]/button</value>
+      <webElementGuid>1895002c-daa5-4bb1-b7eb-e67d50d5964c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produk'])[2]/following::button[1]</value>
+      <webElementGuid>fdbf4382-9ffa-4c18-993d-e86b6465754b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::button[1]</value>
+      <webElementGuid>9ad47359-51ed-4c53-8092-ff541649b582</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Judul'])[1]/preceding::button[2]</value>
+      <webElementGuid>e855c939-421a-4b7a-8f75-53d9b31e85ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/preceding::button[2]</value>
+      <webElementGuid>62454f4e-1580-405f-9292-b06b3313ced4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reward Koin Transaksi']/parent::*</value>
+      <webElementGuid>c835add7-70ca-4944-bf62-51c61b273c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>ac4e7702-5dde-4fc0-990f-2955ea0966ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Reward Koin Transaksi' or . = 'Reward Koin Transaksi')]</value>
+      <webElementGuid>aded75c5-c28f-4e38-a909-7f66689dca44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

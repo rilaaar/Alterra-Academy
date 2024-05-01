@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Nama Kategori</name>
+   <tag></tag>
+   <elementGuidId>01d5b1f7-adce-4c73-8520-0aebd21feb58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div[2]/div[2]/section/div[2]/table/thead/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>3bcd8cc3-8163-419f-95f1-218005ee98be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Kategori</value>
+      <webElementGuid>a2afde3b-5107-4251-991d-381f19922125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;sidebardashboard&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;content&quot;]/section[@class=&quot;kategoriSection&quot;]/div[@class=&quot;bottom&quot;]/table[1]/thead[1]/th[1]</value>
+      <webElementGuid>03f34f1f-cad2-4b1e-9a6e-bf8a69315d3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div[2]/div[2]/section/div[2]/table/thead/th</value>
+      <webElementGuid>dc4fb480-c542-43b3-81eb-2a9f305f1e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::th[1]</value>
+      <webElementGuid>e7ebf9b0-078d-4e32-bd1e-0876387dc528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opsi'])[1]/preceding::th[1]</value>
+      <webElementGuid>44ab4429-868e-47df-9f2d-55b33d5597c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Leanne Graham'])[1]/preceding::th[2]</value>
+      <webElementGuid>35a4e763-2830-46dc-a874-fb09a4e2517d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nama Kategori']/parent::*</value>
+      <webElementGuid>c479d4fe-6ada-4075-b0a4-c4b4a73dba24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th</value>
+      <webElementGuid>d4de7a02-f203-41c6-baae-b7bf0fcea1cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Nama Kategori' or . = 'Nama Kategori')]</value>
+      <webElementGuid>8aa4ce3c-6c6a-4d7c-8c56-d5e6baa1af79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC012 - Delete agent</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d63b4fa2-e829-4852-9aa8-72e939ac9d8f</testCaseGuid>
+</TestCaseEntity>

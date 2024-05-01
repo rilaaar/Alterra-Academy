@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Order","Showed total price paid for 1 product","SUCCESS","2022-11-04T18:17:59.2634279+07:00[Asia/Bangkok]","0.0","6.26"
+"Order","Showed total price paid for 2 product","SUCCESS","2022-11-04T18:18:05.7633454+07:00[Asia/Bangkok]","0.0","6.52"
+"Order","Showed one quantity product","SUCCESS","2022-11-04T18:18:12.5432421+07:00[Asia/Bangkok]","0.0","6.43"
+"Order","Showed two quantity product","SUCCESS","2022-11-04T18:18:19.2179813+07:00[Asia/Bangkok]","0.0","6.37"
+"Order","Pay the product","SUCCESS","2022-11-04T18:18:25.848709+07:00[Asia/Bangkok]","0.0","6.57"

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Leanne Graham</name>
+   <tag></tag>
+   <elementGuidId>03c2fdff-23f8-4f0c-bed9-009a4972f7ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div[2]/div[2]/section/div[2]/table/tbody/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>914792f3-8e15-486c-bfcd-6b2e39922260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Leanne Graham</value>
+      <webElementGuid>e614e4cb-06a3-4264-8430-2597c2599f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;sidebardashboard&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;content&quot;]/section[@class=&quot;produkSection&quot;]/div[@class=&quot;bottom&quot;]/table[1]/tbody[1]/td[1]</value>
+      <webElementGuid>eebb7c22-3123-4748-8836-1084e4ffc92a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div[2]/div[2]/section/div[2]/table/tbody/td</value>
+      <webElementGuid>bb95939c-28cb-487c-8f5d-ff7b2ddf1f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opsi'])[1]/following::td[1]</value>
+      <webElementGuid>24fc6373-a2a2-4384-977f-971d22f44546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Koin Transaksi'])[1]/following::td[1]</value>
+      <webElementGuid>db89ec47-dbde-44c8-aba9-a8c15dcababe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sincere@april.biz'])[1]/preceding::td[1]</value>
+      <webElementGuid>1abb3a12-bb6c-415b-96a5-691f0c426ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apt. 556'])[1]/preceding::td[2]</value>
+      <webElementGuid>dfc2041b-6741-44d3-af89-c1599dc46670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Leanne Graham']/parent::*</value>
+      <webElementGuid>9fe922d9-470f-4910-b28d-fd0c649bc6f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>2a7ca320-f4ee-4ffc-a63b-d11ff3ed4f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Leanne Graham' or . = 'Leanne Graham')]</value>
+      <webElementGuid>ba0add58-e2bd-4503-9f4e-87d247fdc554</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

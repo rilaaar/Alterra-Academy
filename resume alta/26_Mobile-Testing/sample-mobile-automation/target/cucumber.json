@@ -1,0 +1,370 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-10-19T04:40:51.121Z",
+        "before": [
+          {
+            "result": {
+              "duration": 26434256600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "Adding two numbers",
+        "description": "",
+        "id": "adding-numbers;adding-two-numbers",
+        "after": [
+          {
+            "result": {
+              "duration": 873345000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3508075200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "a is 1",
+            "match": {
+              "location": "com.example.steps.MathsStepDefinitions.givenAIs1()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1822138500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "b is 2",
+            "match": {
+              "location": "com.example.steps.MathsStepDefinitions.givenBIs2()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2056894700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I add a and b",
+            "match": {
+              "location": "com.example.steps.MathsStepDefinitions.iAddAAndB()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 89888200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the total should be 3",
+            "match": {
+              "location": "com.example.steps.MathsStepDefinitions.theTotalShouldBe3()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Adding Numbers",
+    "description": "",
+    "id": "adding-numbers",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/math/adding_numbers.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-10-19T04:41:26.227Z",
+        "before": [
+          {
+            "result": {
+              "duration": 11780579700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "delete my history",
+        "description": "",
+        "id": "delete-my-history;delete-my-history",
+        "after": [
+          {
+            "result": {
+              "duration": 675112900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7908151200,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the history page",
+            "match": {
+              "location": "com.example.steps.DeleteStepDefinitions.iAmOnTheHistoryPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 105327400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click delete button",
+            "match": {
+              "location": "com.example.steps.DeleteStepDefinitions.iClickDeleteButton()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2492556500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "the history can deleted",
+            "match": {
+              "location": "com.example.steps.DeleteStepDefinitions.theHistoryCanDeleted()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "delete my history",
+    "description": "  As a user\n  I want to manage my history\n  So I can delete my history",
+    "id": "delete-my-history",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/math/delete_history.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-10-19T04:41:49.259Z",
+        "before": [
+          {
+            "result": {
+              "duration": 9971389000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "accses my history",
+        "description": "",
+        "id": "manage-my-history;accses-my-history",
+        "after": [
+          {
+            "result": {
+              "duration": 528863500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3183056100,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the calculator page",
+            "match": {
+              "location": "com.example.steps.ClickNumberStepDefinitions.iAmOnTheCalculatorPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 121356100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click one number",
+            "match": {
+              "location": "com.example.steps.ClickNumberStepDefinitions.iClickOneNumber()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 795067500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click plus",
+            "match": {
+              "location": "com.example.steps.HistoryStepDefinitions.iClickPlus()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 607167400,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click one number again",
+            "match": {
+              "location": "com.example.steps.HistoryStepDefinitions.iClickOneNumberAgain()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 609202300,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click equel",
+            "match": {
+              "location": "com.example.steps.HistoryStepDefinitions.iClickEquel()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2513310600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I can manage my history page",
+            "match": {
+              "location": "com.example.steps.HistoryStepDefinitions.iCanManageMyHistoryPage()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "manage my history",
+    "description": "  As a user\n  I want to access my history\n  So I can manage my history",
+    "id": "manage-my-history",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/math/history.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-10-19T04:42:07.673Z",
+        "before": [
+          {
+            "result": {
+              "duration": 10264922100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.before()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Click one number",
+        "description": "",
+        "id": "click-number-button;click-one-number",
+        "after": [
+          {
+            "result": {
+              "duration": 527454000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.example.hook.AndroidDriverHook.after()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3057519600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I am on the calculator page",
+            "match": {
+              "location": "com.example.steps.ClickNumberStepDefinitions.iAmOnTheCalculatorPage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 105597000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click one number",
+            "match": {
+              "location": "com.example.steps.ClickNumberStepDefinitions.iClickOneNumber()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 811358300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "the number can displayed in the screen",
+            "match": {
+              "location": "com.example.steps.ClickNumberStepDefinitions.theNumberCanDisplayedInTheScreen()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "click number button",
+    "description": "  As a user\n  I want to click number button\n  So I can click the the button",
+    "id": "click-number-button",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/math/number.feature",
+    "tags": []
+  }
+]

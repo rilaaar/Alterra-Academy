@@ -1,0 +1,5 @@
+starter\stepdefinitions\DashboardStep.class
+starter\CucumberTestSuite.class
+starter\pages\DashboardPage.class
+starter\stepdefinitions\LoginStep.class
+starter\pages\LoginPage.class

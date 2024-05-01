@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button</name>
+   <tag></tag>
+   <elementGuidId>acc1fec7-467c-423f-8777-ed05fe8d6b01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div[2]/div[2]/section/div[2]/table/tbody[2]/td[7]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2a1371d5-b1e3-4821-bf1f-5cbd5ff4ae68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;sidebardashboard&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;content&quot;]/section[@class=&quot;agenSection&quot;]/div[@class=&quot;bottom&quot;]/table[1]/tbody[2]/td[7]/button[1]</value>
+      <webElementGuid>ff521d59-b125-4c26-a7a1-6fb9a89f7e0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div[2]/div[2]/section/div[2]/table/tbody[2]/td[7]/button</value>
+      <webElementGuid>49c4e067-7220-4efe-9fbd-ab42f7e56d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tue Dec 13 2022 00:17:31'])[1]/following::button[1]</value>
+      <webElementGuid>bbef8fe1-9205-450c-9122-b0c39db6269c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fireblaster736@gmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>8e04e09e-8692-4d6e-9856-217f790e2953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rilaa'])[1]/preceding::button[1]</value>
+      <webElementGuid>c3e15d2f-6911-4f3c-a179-4d6bd16b1999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rilaaarn@gmail.com'])[1]/preceding::button[1]</value>
+      <webElementGuid>9c3605f8-6941-4a00-836c-4e2521f6254d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[2]/td[7]/button</value>
+      <webElementGuid>6b42d804-3774-476b-a1d5-2a4d98ee0328</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Login" skipped="0" tests="1" time="2.86" timestamp="2023-10-18 03:20:18"><testcase name="Login with account"><error message="Unable to establish websocket connection to http://localhost:50794/devtools/browser/4f91b5de-3325-42d2-8481-a7001df9e4a6&#10;Build info: version: '4.1.2', revision: '9a5a329c5a'&#10;System info: host: 'JUSTR', ip: '192.168.169.194', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'&#10;Driver info: driver.version: ChromeDriver&#10;Build info: version: '4.1.2', revision: '9a5a329c5a'&#10;System info: host: 'JUSTR', ip: '192.168.169.194', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.remote.http.ConnectionFailedException">Unable to establish websocket connection to http://localhost:50794/devtools/browser/4f91b5de-3325-42d2-8481-a7001df9e4a6
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'JUSTR', ip: '192.168.169.194', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'
+Driver info: driver.version: ChromeDriver
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'JUSTR', ip: '192.168.169.194', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'
+Driver info: driver.version: unknown</error><system-err>Unable to establish websocket connection to http://localhost:50794/devtools/browser/4f91b5de-3325-42d2-8481-a7001df9e4a6
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'JUSTR', ip: '192.168.169.194', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'
+Driver info: driver.version: ChromeDriver
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'JUSTR', ip: '192.168.169.194', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.16'
+Driver info: driver.version: unknown&#13;
+saucedemo@1.0-SNAPSHOT/starter.stepdefinitions.LoginStep.setUpDriver(LoginStep.java:22)&#13;
+</system-err></testcase></testsuite>

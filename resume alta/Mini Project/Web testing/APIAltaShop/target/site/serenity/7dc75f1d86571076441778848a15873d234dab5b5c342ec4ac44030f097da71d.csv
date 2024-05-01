@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product","Get all product with valid token","SUCCESS","2022-11-04T14:26:16.4125782+07:00[Asia/Bangkok]","0.0","5.63"
+"Product","Get all product with invalid token","SUCCESS","2022-11-04T14:26:22.0472376+07:00[Asia/Bangkok]","0.0","2.03"
+"Product","Create a new product","FAILURE","2022-11-04T14:26:24.0870017+07:00[Asia/Bangkok]","0.0","5.4"
+"Product","Delete a product with valid token","SUCCESS","2022-11-04T14:26:29.5001945+07:00[Asia/Bangkok]","0.0","1.33"
+"Product","Delete a product with invalid token","SUCCESS","2022-11-04T14:26:30.837719+07:00[Asia/Bangkok]","0.0","1.31"

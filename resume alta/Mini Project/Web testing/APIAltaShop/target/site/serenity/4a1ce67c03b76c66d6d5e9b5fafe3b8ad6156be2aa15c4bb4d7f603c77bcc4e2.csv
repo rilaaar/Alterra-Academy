@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Categories","Get all categories with valid token","SUCCESS","2022-11-04T14:26:16.1402585+07:00[Asia/Bangkok]","0.0","5.48"
+"Categories","Get all categories with invalid token","SUCCESS","2022-11-04T14:26:21.6266903+07:00[Asia/Bangkok]","0.0","1.8"
+"Categories","Create a category","SUCCESS","2022-11-04T14:26:23.4355455+07:00[Asia/Bangkok]","0.0","5.35"
+"Categories","Get categories by ID with valid token","SUCCESS","2022-11-04T14:26:28.8111524+07:00[Asia/Bangkok]","0.0","1.41"
+"Categories","Get categories by ID with invalid token","SUCCESS","2022-11-04T14:26:30.2334026+07:00[Asia/Bangkok]","0.0","1.3"

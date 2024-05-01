@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Order","Create a order","FAILURE","2022-11-04T14:26:16.3733741+07:00[Asia/Bangkok]","0.0","9.47"
+"Order","Get all order with valid token","SUCCESS","2022-11-04T14:26:25.8554928+07:00[Asia/Bangkok]","0.0","1.39"
+"Order","Get all order with invalid token","SUCCESS","2022-11-04T14:26:27.2495732+07:00[Asia/Bangkok]","0.0","1.39"
+"Order","Get order by ID with valid token","SUCCESS","2022-11-04T14:26:28.6519216+07:00[Asia/Bangkok]","0.0","1.4"
+"Order","Get order by ID with invalid token","SUCCESS","2022-11-04T14:26:30.0600429+07:00[Asia/Bangkok]","0.0","1.34"

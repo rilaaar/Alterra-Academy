@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Jumlah PemasukanRata-Rata TransaksiJ_cc9f73</name>
+   <tag></tag>
+   <elementGuidId>dd5bd5e2-063e-41e5-ba1f-f5fb57d9811c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div[2]/div[2]/div/div[2]/div/div/select</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select.beranda_select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3afb717c-1c49-4432-81cf-6909dad71a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>beranda_select</value>
+      <webElementGuid>067b8961-ab84-4283-bc7d-5777a5013cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jumlah PemasukanRata-Rata TransaksiJumlah Agen</value>
+      <webElementGuid>8928709e-a8ed-4d90-8d30-a8cd4d05f049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;sidebardashboard&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;section col-sm-12 p-3&quot;]/div[@class=&quot;card&quot;]/div[1]/select[@class=&quot;beranda_select&quot;]</value>
+      <webElementGuid>323219c3-3645-40bd-8965-abc2bc609bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f53de748-c293-4c6f-8d40-bed6a8f7f48a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>beranda_select</value>
+      <webElementGuid>5d611570-fa59-4782-91db-fcfe99a52bcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jumlah PemasukanRata-Rata TransaksiJumlah Agen</value>
+      <webElementGuid>b1a1f78e-74b9-45ba-98f1-c2b9b2b4ca65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;sidebardashboard&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;section col-sm-12 p-3&quot;]/div[@class=&quot;card&quot;]/div[1]/select[@class=&quot;beranda_select&quot;]</value>
+      <webElementGuid>f00b8ad5-fd08-445c-b222-a644941bdf93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div[2]/div[2]/div/div[2]/div/div/select</value>
+      <webElementGuid>203a4068-809d-4c19-a814-6f0f83ae02fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah agen'])[1]/following::select[1]</value>
+      <webElementGuid>644ed43b-38b3-416f-858d-b0eb9c9add00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp10.556.785'])[1]/following::select[1]</value>
+      <webElementGuid>5d36c9c1-2ca8-4a1f-a529-481f6af96757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulanan 2022'])[1]/preceding::select[1]</value>
+      <webElementGuid>83ffe6ee-b329-4d39-b5a2-ffc0307cea69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jan'])[1]/preceding::select[1]</value>
+      <webElementGuid>411849db-1272-46ed-b2f6-fb2f63c2d36d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>9df9cb51-5791-462d-8cc8-92b266c71437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'Jumlah PemasukanRata-Rata TransaksiJumlah Agen' or . = 'Jumlah PemasukanRata-Rata TransaksiJumlah Agen')]</value>
+      <webElementGuid>38992056-589c-4cab-9c44-f49c5c071548</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_1amrilrisman1 GB 1 Hari Pengguna By.U20M_a12c43</name>
+   <tag></tag>
+   <elementGuidId>c56ef6dc-0635-4cfa-b524-a91382d97753</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/div[2]/div[2]/section/div[2]/table/tbody/tr</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tbody > tr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+      <webElementGuid>6c2803f4-30e8-40e4-b7e0-545be2054278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1amrilrisman1 GB 1 Hari Pengguna By.U20Mon Dec 19 2022 22:41:33PENDING</value>
+      <webElementGuid>c9580e48-b23e-4970-a1a4-5ea020c468dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;sidebardashboard&quot;]/div[@class=&quot;right&quot;]/div[@class=&quot;content&quot;]/section[@class=&quot;agenSection&quot;]/div[@class=&quot;bottom&quot;]/table[1]/tbody[1]/tr[1]</value>
+      <webElementGuid>3a846983-a42e-4232-96f0-4f7dd37d0caf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/div[2]/div[2]/section/div[2]/table/tbody/tr</value>
+      <webElementGuid>4b3f6f29-b534-4c30-a42a-6bde39fe814d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::tr[1]</value>
+      <webElementGuid>0dabd9c5-e9fb-421a-b17c-1ddf36919896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Dan Waktu'])[1]/following::tr[1]</value>
+      <webElementGuid>cd27f1bc-9e27-490e-8d03-044b3b152065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr</value>
+      <webElementGuid>09629445-69d8-494f-bbce-2959d9d11961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tr[(text() = '1amrilrisman1 GB 1 Hari Pengguna By.U20Mon Dec 19 2022 22:41:33PENDING' or . = '1amrilrisman1 GB 1 Hari Pengguna By.U20Mon Dec 19 2022 22:41:33PENDING')]</value>
+      <webElementGuid>191174f0-7773-499e-afd5-39c2012c3c79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

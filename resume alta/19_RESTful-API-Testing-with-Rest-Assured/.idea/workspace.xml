@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15923fca-ebd4-4c66-9df0-ffbb6e753c8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../27_Testing-in-CI-CD-Pipeline/CICD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BDD2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini Project/Mobile testing/AltaShopMobile/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini Project/Web testing/APIAltaShop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mini Project/Web testing/AltaShop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Swagger/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Weekly-task-2/weeklytask2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoqa/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../saucedemo/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2GNs0trWP6gMyLr52SeB7wnITFY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Ra/file kuliah/semester 7/resume alta/19_RESTful-API-Testing-with-Rest-Assured&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15923fca-ebd4-4c66-9df0-ffbb6e753c8d" name="Changes" comment="" />
+      <created>1666240155737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666240155737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

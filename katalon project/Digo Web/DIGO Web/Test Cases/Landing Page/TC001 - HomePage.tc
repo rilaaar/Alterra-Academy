@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001 - HomePage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52b610c6-1c7b-4991-8a65-dbffa008cc20</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>94955023-d1ab-4cfb-8a9a-e771cf946c20</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>null</defaultValue>
+      <description></description>
+      <id>94955023-d1ab-4cfb-8a9a-e771cf946c20</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

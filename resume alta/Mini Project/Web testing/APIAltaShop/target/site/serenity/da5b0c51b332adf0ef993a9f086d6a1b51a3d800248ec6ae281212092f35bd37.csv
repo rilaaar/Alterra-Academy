@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Authentication","Register new a account","FAILURE","2022-11-04T14:26:27.4226569+07:00[Asia/Bangkok]","0.0","8.72"
+"Order","Create a order","FAILURE","2022-11-04T14:26:16.3733741+07:00[Asia/Bangkok]","0.0","9.47"
+"Product","Create a new product","FAILURE","2022-11-04T14:26:24.0870017+07:00[Asia/Bangkok]","0.0","5.4"

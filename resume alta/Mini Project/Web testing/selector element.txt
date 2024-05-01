@@ -1,0 +1,45 @@
+mvn clean verify -Dtags='Login'
+
+//div[label[text() = 'Email']]/input
+//div[text() = 'email is required']
+//button//i[contains(@class, 'sign-in')]
+//div[label[text() = 'Password']]/input
+
+wedriver.wait.for.timeout=5000
+
+//div[@class = 'v-main__wrap']
+//div [@class='v-toolbar__title']
+//div[@class = 'v-alert__wrapper']
+
+id "button-bayar"
+
+//div[@class='col-md-4 col-lg-3 col-6']
+
+
+//*[@class='myclass' and text()='qwerty']
+//div[@class ='v-list-item__title'and contains(., 'Logout')]
+//span//i[contains(@class, 'user')]
+
+//div//span[@class ='v-btn__content'and contains(., 'Beli')]
+//div//span[@class ='v-btn__content'and contains(., 'Detail')]
+
+//div[@class='v-rating v-rating--dense']
+//div[@class='v-select__selections']
+//div[@class ='v-list-item__title'and contains(., 'gaming')]
+//div[@class ='v-list-item__title'and contains(., 'Dolanan')]
+//div//span[@class ='v-badge__badge primary']
+
+//div//span[@class ='v-chip__content'and contains(., 'gaming')]
+//span//i[contains(@class, 'shopping-cart')]
+id "label-total-bayar"
+id "label-total-quantity"
+//div[@class ='mt-3 text-center']//a/@href
+//div[label[text() = 'Nama Lengkap']]/input
+//div//span[@class ='v-btn__content'and contains(., 'Register')]
+
+//a[contains(@href, "/auth/register")]/@href
+//div//a/@href[@class ='mt-3 text-center'and contains(., 'Register')]
+
+//a[contains(@href, '/auth/register')]
+
+(//div//span[@class ='v-btn__content'and contains(., 'Beli')])[1]

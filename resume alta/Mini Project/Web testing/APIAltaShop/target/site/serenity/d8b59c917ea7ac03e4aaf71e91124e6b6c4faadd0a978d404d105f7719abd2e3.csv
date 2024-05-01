@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Authentication","Login with email and password","SUCCESS","2022-11-04T14:26:16.2984483+07:00[Asia/Bangkok]","0.0","11.11"
+"Authentication","Register new a account","FAILURE","2022-11-04T14:26:27.4226569+07:00[Asia/Bangkok]","0.0","8.72"
+"Authentication","Get user information","SUCCESS","2022-11-04T14:26:36.1478688+07:00[Asia/Bangkok]","0.0","1.53"
